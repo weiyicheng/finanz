@@ -1,0 +1,70 @@
+Buchungsdatum;Kaufdatum;Umsatz;Betrag;Kategorie
+27.01.2016;26.01.2016;edeka fanderl / ingolstadt;-4.98;Lebensmittel
+29.01.2016;28.01.2016;dm-drogerie markt / ingolstadt;-10.15;Lebensmittel
+01.02.2016;30.01.2016;kaufland ingolstadt / ingolstadt;-18.04;Lebensmittel
+01.02.2016;30.01.2016;edeka fanderl / ingolstadt;-2.53;Lebensmittel
+08.02.2016;05.02.2016;mueller  fil. 1312 / ingolstadt;-4.59;Lebensmittel
+08.02.2016;06.02.2016;kaufland ingolstadt / ingolstadt;-10.88;Lebensmittel
+09.02.2016;08.02.2016;edeka fanderl / ingolstadt;-14.62;Lebensmittel
+11.02.2016;09.02.2016;kaufland ingolstadt / ingolstadt;-12.78;Lebensmittel
+12.02.2016;11.02.2016;edeka fanderl / ingolstadt;-4.63;Lebensmittel
+15.02.2016;13.02.2016;kaufland ingolstadt / ingolstadt;-11.94;Lebensmittel
+17.02.2016;16.02.2016;edeka fanderl / ingolstadt;-3.07;Lebensmittel
+22.02.2016;22.02.2016;auftraggeber: neukauf suedbayern gmbh//gaimershei m/dekto/iban: de79200907003142302071 buchungstext: kartenzahlung 275 edeka westpark ingolst//gaimers 2016-02-20t19:58:03 kfn 1 vj 1912 ref. 16a16053d1145414/46858;-6.57;Lebensmittel
+18.02.2016;18.02.2016;auftraggeber: geldautomat postbank buchungstext: auszahlung postbank//cottbus/de 2016-02-17t17:05:58 kfn 0 vj 1912 ref. 47d16049c0848437/587;-50.00;Lebensmittel
+02.02.2016;02.02.2016;auftraggeber: unicredit bank ag buchungstext: auszahlung hypovereinsbank//ingolstadt/de 2016-01-30t15:17:09 kfn 1 vj 1912 ref. 57k16033a2018467/61874;-200.00;Lebensmittel
+01.02.2016;01.02.2016;auftraggeber: geldautomat postbank buchungstext: auszahlung postbank//cottbus/de 2016-01-31t11:45:19 kfn 0 vj 1912 ref. 66b16032c3315866/88413;-80.00;Lebensmittel
+01.02.2016;01.02.2016;auftraggeber: geldautomat postbank buchungstext: auszahlung postbank//cottbus/de 2016-01-31t11:46:39 kfn 0 vj 1912 ref. 66b16032c3315866/88411;-10.00;Lebensmittel
+29.02.2016;27.02.2016; aldi 30051 cottbus 000 ;-5.07;Lebensmittel
+29.02.2016;27.02.2016; rewe markt thomas berges cottbus 000 ;-2.59;Lebensmittel
+26.02.2016;25.02.2016; rewe markt thomas berges cottbus 000 ;-4.38;Lebensmittel
+26.02.2016;25.02.2016; rewe markt thomas berges cottbus 000 ;-0.70;Lebensmittel
+25.02.2016;24.02.2016; aldi 30051 cottbus 000 ;-5.87;Lebensmittel
+25.02.2016;24.02.2016; rewe markt thomas berges cottbus 000 ;-2.59;Lebensmittel
+25.02.2016;24.02.2016; rewe markt thomas berges cottbus 000 ;-1.28;Lebensmittel
+24.02.2016;23.02.2016; rewe markt thomas berges cottbus 000 ;-4.38;Lebensmittel
+24.02.2016;23.02.2016; rewe markt thomas berges cottbus 000 ;-1.22;Lebensmittel
+23.02.2016;22.02.2016; rewe markt thomas berges cottbus 000 ;-4.28;Lebensmittel
+22.02.2016;20.02.2016; aldi 30051 cottbus 000 ;-5.26;Lebensmittel
+22.02.2016;19.02.2016; rewe markt thomas berges cottbus 000 ;-2.56;Lebensmittel
+22.02.2016;19.02.2016; rewe markt thomas berges cottbus 000 ;-1.22;Lebensmittel
+18.02.2016;17.02.2016; rewe markt thomas berges cottbus 000 ;-2.59;Lebensmittel
+18.02.2016;17.02.2016; rewe markt thomas berges cottbus 000 ;-1.14;Lebensmittel
+16.02.2016;15.02.2016; aldi 30051 cottbus 000 ;-1.49;Lebensmittel
+16.02.2016;15.02.2016; rewe markt thomas berges cottbus 000 ;-1.22;Lebensmittel
+15.02.2016;13.02.2016; aldi 30051 cottbus 000 ;-16.89;Lebensmittel
+15.02.2016;12.02.2016; rewe markt thomas berges cottbus 000 ;-1.22;Lebensmittel
+12.02.2016;11.02.2016; rewe markt thomas berges cottbus 000 ;-5.20;Lebensmittel
+11.02.2016;10.02.2016; aldi 30051 cottbus 000 ;-4.63;Lebensmittel
+09.02.2016;08.02.2016; netto sagt danke 8685 cottbus 000 ;-6.13;Lebensmittel
+08.02.2016;06.02.2016; aldi 30051 cottbus 000 ;-6.98;Lebensmittel
+08.02.2016;05.02.2016; rewe markt thomas berges cottbus 000 ;-8.16;Lebensmittel
+08.02.2016;05.02.2016; rewe markt thomas berges cottbus 000 ;-0.64;Lebensmittel
+05.02.2016;04.02.2016; rewe markt thomas berges cottbus 000 ;-3.58;Lebensmittel
+04.02.2016;03.02.2016; rewe markt thomas berges cottbus 000 ;-5.18;Lebensmittel
+03.02.2016;02.02.2016; netto sagt danke 8685 cottbus 000 ;-3.87;Lebensmittel
+02.02.2016;01.02.2016; netto sagt danke 8685 cottbus 000 ;-7.19;Lebensmittel
+01.02.2016;30.01.2016; aldi 30051 cottbus 000 ;-7.60;Lebensmittel
+01.02.2016;30.01.2016; rewe markt thomas berges cottbus 000 ;-5.18;Lebensmittel
+08.02.2016;05.02.2016;tankstelle westpark / ingolstadt;-39.82;Verkehr
+18.02.2016;18.02.2016;auftraggeber: vodafone kabeldeutschland kto/iban: de13380700590045335700 buchungstext: 02/2016 k-nr. 933091064 ihre rechnu ng online bei www.vodafone.de/meink abel end-to-end-ref.: rechnr. 100372009162 cor1 / mandatsref.: kd020006598081 gläubiger-id: de20kd000000058294 ref. ho21604892336034/738;-19.99;Kommunikation
+11.02.2016;11.02.2016;auftraggeber: telefonica germany gmbh + co. ohg kto/iban: de16700202700005713153 buchungstext: kd-nr.: 6017780964, rg-nr.: 1990156 064/04, ihre mobilfunkrechnung. det ails unter www.rechnung.telefonica. de end-to-end-ref.: 3202196514420001990156064004rcur cor1 / mandatsref.: t0010001b000006017780964 gläubiger-id: de9700000000142462 ref. iq21604091707144/899;-14.99;Kommunikation
+08.02.2016;05.02.2016;amazon eu / amazon.de;-0.93;Haus
+29.02.2016;29.02.2016;auftraggeber: stadtwerke ingolstadt energie gmbh kto/iban: de06721500000000000034 buchungstext: 4046942 abschlag/rechnung 635776/52 .00/schlehenweg 32 end-to-end-ref.: 12948980 core / mandatsref.: swi0004046942g0000084856 gläubiger-id: de09zzz00000575308 ref. j221605692343039/4694;-52.00;Haus
+03.02.2016;03.02.2016;auftraggeber: lukas gmbh + co. betriebs kg kto/iban: de05721608180000904600 buchungstext: miete end-to-end-ref.: nicht angegeben core / mandatsref.: 08.01egrechts gläubiger-id: de38zzz00001325663 ref. ja21602891646169/1;-555.00;Haus
+01.02.2016;01.02.2016;auftraggeber: stadtwerke ingolstadt energie gmbh kto/iban: de06721500000000000034 buchungstext: 4046942 abschlag/rechnung 635776/52 .00/schlehenweg 32 end-to-end-ref.: 12887285 core / mandatsref.: swi0004046942g0000084856 gläubiger-id: de09zzz00000575308 ref. ix21602893143470/4202;-52.00;Haus
+26.02.2016;26.02.2016;empfänger: europe campus ministry deutschland kto/iban: de72850400000111387700 blz/bic: cobadeffxxx buchungstext: spende von guangyun xu und yicheng wei, feb, 2016 end-to-end-ref.: nicht angegeben ref. gw216056m4018346/2;-264.00;Spende
+24.02.2016;24.02.2016;auftraggeber: e.solutions gmbh buchungstext: lohn-/gehalt 2/2016 end-to-end-ref.: 26635 ref. gq216055c2913232/6779;2644.26;Einkommen
+23.02.2016;23.02.2016;zahlungsschutz;-3.07;Anders
+29.02.2016;29.02.2016;auftraggeber: britze thomas kto/iban: de54180200860007915551 buchungstext: kartenzahlung der ringfoto britze//cottbus/de 2016-02-27t17:02:07 kfn 0 vj 1912 ref. 10a16060a3103292/86017;-20.95;Anders
+29.02.2016;29.02.2016;empfänger: fahrschule stiffel kto/iban: de90120700240502445000 blz/bic: deutdedb160 buchungstext: rechnungsnr.: 2016/00051 schuelernr .:5224 von yicheng wei end-to-end-ref.: nicht angegeben ref. i3216058l5736836/2;-514.38;Anders
+15.02.2016;15.02.2016;auftraggeber: penny am gvz kto/iban: de48370400440506361506 buchungstext: kartenzahlung penny sagt danke. 66301039//ingolst 2016-02-12t18:11:48 kfn 1 vj 1912 ref. 2ka16046a2303305/3253;-3.47;Anders
+12.02.2016;12.02.2016;auftraggeber: mobilcom-debitel kto/iban: de08214400450844443200 buchungstext: kd 0012997960 wir sagen danke. rg-n r. m16010551151 9,97 eur end-to-end-ref.: 0012997960/137527560281 cor1 / mandatsref.: mc-12997960-00000003 gläubiger-id: de43zzz00000074855 ref. hx216039a1922184/67372;-9.97;Anders
+11.02.2016;11.02.2016;auftraggeber: qipu gmbh buchungstext: qipu934434 end-to-end-ref.: qipu934434 ref. iq21604280745101/38668;80.00;Anders
+05.02.2016;05.02.2016;auftraggeber: studentenwerk frankfurt (oder) kto/iban: de88120300000000501494 buchungstext: d0087943,01.02.16 0216-cb.p.1.111 2 26,00 end-to-end-ref.: olpaymenttan.1.509502 cor1 / mandatsref.: d00087943-01032011 gläubiger-id: de42zzz00000048489 ref. iw21603592309808/6860;-226.00;Anders
+04.02.2016;04.02.2016;auftraggeber: penny am gvz kto/iban: de48370400440506361506 buchungstext: kartenzahlung penny sagt danke. 66301039//ingolst 2016-02-03t18:16:36 kfn 1 vj 1912 ref. 0nl16035a1517410/3286;-4.04;Anders
+01.02.2016;01.02.2016;auftraggeber: penny am gvz kto/iban: de48370400440506361506 buchungstext: kartenzahlung penny sagt danke. 66301039//ingolst 2016-01-29t18:30:12 kfn 1 vj 1912 ref. 7ua16032a3113556/2539;-4.31;Anders
+29.02.2016;28.02.2016; deutsche post mobility gmbonn 000 ;-13.90;Anders
+26.02.2016;25.02.2016; tronomed gmbh co. kg braunschweig000 ;-26.42;Anders
+12.02.2016;11.02.2016; burger king cottbus 000 ;-5.28;Anders
+11.02.2016;10.02.2016; snapfish de newton abbot006 ;-4.99;Anders

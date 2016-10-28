@@ -1,0 +1,64 @@
+Buchungsdatum;Kaufdatum;Umsatz;Betrag;Kategorie
+28.12.2015;23.12.2015;aldi sued sagt danke / ingolstadt;-35.06;Lebensmittel
+28.12.2015;24.12.2015;dm-drogerie markt / ingolstadt;-59.40;Lebensmittel
+28.12.2015;24.12.2015;dm-drogerie markt / ingolstadt;-40.15;Lebensmittel
+28.12.2015;24.12.2015;kaufland ingolstadt / ingolstadt;-16.28;Lebensmittel
+30.12.2015;29.12.2015;dm-drogerie markt / ingolstadt;-5.15;Lebensmittel
+04.01.2016;31.12.2015;netto sagt danke 8685 / cottbus;-12.04;Lebensmittel
+04.01.2016;02.01.2016;rewe markt thomas berges / cottbus;-8.48;Lebensmittel
+04.01.2016;02.01.2016;rewe markt thomas berges / cottbus;-2.64;Lebensmittel
+04.01.2016;02.01.2016;lidl vertriebs gmbh & co. / cottbus;-5.35;Lebensmittel
+08.01.2016;07.01.2016;dm-drogerie markt / ingolstadt;-28.15;Lebensmittel
+08.01.2016;07.01.2016;mueller  fil. 1312 / ingolstadt;-5.78;Lebensmittel
+13.01.2016;11.01.2016;kaufland ingolstadt / ingolstadt;-11.23;Lebensmittel
+15.01.2016;14.01.2016;dm-drogerie markt / ingolstadt;-11.95;Lebensmittel
+19.01.2016;16.01.2016;kaufland ingolstadt / ingolstadt;-27.71;Lebensmittel
+25.01.2016;23.01.2016;edeka fanderl / ingolstadt;-15.82;Lebensmittel
+13.01.2016;13.01.2016;auftraggeber: rewe sagt danke. 42655197 buchungstext: ec 56018198 120116213017oc0 ref. 6gl16013a3628173/653;-2.59;Lebensmittel
+12.01.2016;12.01.2016;auftraggeber: neukauf suedbayern gmbh//gaimershei m/dekto/iban: de79200907003142302071 buchungstext: kartenzahlung 275 edeka westpark ingolst//gaimers 2016-01-08t18:17:14 kfn 1 vj 1912 ref. 68k16012c1319405/45578;-5.22;Lebensmittel
+11.01.2016;11.01.2016;auftraggeber: geldautomat postbank buchungstext: auszahlung postbank//cottbus/de 2016-01-10t20:38:34 kfn 0 vj 1912 ref. 32a16011c2154768/98940;-50.00;Lebensmittel
+11.01.2016;11.01.2016;auftraggeber: aldi gmbh + co. kg hoyerswerda kto/iban: de57300500000001174010 buchungstext: kartenzahlung aldi sagt danke 30 051//cottbus/de 2016-01-09t20:20:47 kfn 0 vj 1912 ref. 32a16011c2154768/4625;-8.08;Lebensmittel
+11.01.2016;11.01.2016;auftraggeber: rewe sagt danke. 42655197 buchungstext: 090113090090457191242519790 090113090904570191256018198 ref. hs21601174626651/19892;-5.47;Lebensmittel
+08.01.2016;08.01.2016;auftraggeber: neukauf suedbayern gmbh//gaimershei m/dekto/iban: de79200907003142302071 buchungstext: kartenzahlung 275 edeka westpark ingolst//gaimers 2016-01-07t14:32:53 kfn 1 vj 1912 ref. 4gb16008d0535828/6801;-3.68;Lebensmittel
+06.01.2016;06.01.2016;auftraggeber: rewe sagt danke. 42655197 buchungstext: 050119310090053191242519790 050119310900530191256018198 ref. if216006b4730436/5546;-4.93;Lebensmittel
+29.01.2016;28.01.2016; rewe markt thomas berges cottbus 000 ;-2.29;Lebensmittel
+26.01.2016;25.01.2016; rewe markt thomas berges cottbus 000 ;-7.17;Lebensmittel
+25.01.2016;23.01.2016; aldi 30051 cottbus 000 ;-8.71;Lebensmittel
+25.01.2016;22.01.2016; rewe markt thomas berges cottbus 000 ;-3.92;Lebensmittel
+21.01.2016;20.01.2016; rewe markt thomas berges cottbus 000 ;-10.36;Lebensmittel
+19.01.2016;16.01.2016; kaufland cottbus cottbus 000 ;-18.63;Lebensmittel
+18.01.2016;16.01.2016; rewe group cottbus 000 ;-2.59;Lebensmittel
+18.01.2016;15.01.2016; rewe group cottbus 000 ;-1.49;Lebensmittel
+19.01.2016;18.01.2016;tankstelle westpark / ingolstadt;-25.41;Verkehr
+20.01.2016;20.01.2016;auftraggeber: vodafone kabeldeutschland kto/iban: de13380700590045335700 buchungstext: 01/2016 k-nr. 933091064 ihre rechnu ng online bei www.vodafone.de/meink abel end-to-end-ref.: rechnr. 100365616643 cor1 / mandatsref.: kd020006598081 gläubiger-id: de20kd000000058294 ref. i321601992802011/1805;-19.99;Kommunikation
+15.01.2016;15.01.2016;auftraggeber: telefonica germany gmbh + co. ohg kto/iban: de16700202700005713153 buchungstext: kd-nr.: 6017780964, rg-nr.: 1966966 850/04, ihre mobilfunkrechnung. det ails unter www.rechnung.telefonica. de end-to-end-ref.: 3202178608330001966966850004rcur cor1 / mandatsref.: t0010001b000006017780964 gläubiger-id: de9700000000142462 ref. je21601392911788/1883;-14.99;Kommunikation
+28.12.2015;23.12.2015;media markt tv-hifi-elekt / ingolstadt;-200.00;Haus
+29.12.2015;28.12.2015;otto gmbh & co. kg;15.00;Haus
+04.01.2016;30.12.2015;amazon de marketplace;137.60;Haus
+18.01.2016;25.12.2015;otto gmbh & co.kg / hamburg;-314.94;Haus
+08.01.2016;08.01.2016;auftraggeber: roller gmbh & co. kg buchungstext: elv61275469 07.01 17.43 me1 ref. hn21600884823109/1649;-129.99;Haus
+04.01.2016;04.01.2016;auftraggeber: lukas gmbh + co. betriebs kg kto/iban: de05721608180000904600 buchungstext: miete end-to-end-ref.: nicht angegeben core / mandatsref.: 08.01egrechts gläubiger-id: de38zzz00001325663 ref. j221536492717638/14852;-555.00;Haus
+04.01.2016;04.01.2016;auftraggeber: stadtwerke ingolstadt energie gmbh kto/iban: de06721500000000000034 buchungstext: 4046942 abschlag/rechnung 635776/52 .00/schlehenweg 32 end-to-end-ref.: 12824405 core / mandatsref.: swi0004046942g0000084856 gläubiger-id: de09zzz00000575308 ref. j221536492717644/15473;-52.00;Haus
+28.12.2015;24.12.2015;woehrl ag / ingolstadt;-52.49;Kleidung
+27.01.2016;27.01.2016;empfänger: europe campus ministry deutschland kto/iban: de72850400000111387700 blz/bic: cobadeffxxx buchungstext: spende von guangyun xu und yicheng wei, jan. , 2016 end-to-end-ref.: nicht angegeben ref. i0216026m1950995/2;-290.00;Spende
+26.01.2016;26.01.2016;auftraggeber: e.solutions gmbh buchungstext: lohn-/gehalt 1/2016 end-to-end-ref.: 26349 ref. j0216026a0726769/22360;2869.68;Einkommen
+25.01.2016;25.01.2016;zahlungsschutz;-6.38;Anders
+28.12.2015;23.12.2015;www.brands4 order by bra / private sale;-19.99;Anders
+29.12.2015;28.12.2015;marc o'polo / ingolstadt;-169.90;Anders
+29.12.2015;28.12.2015;bauhaus 568 / ingolstadt;-52.90;Anders
+30.12.2015;29.12.2015;www.brands4 order by bra / private sale;-11.89;Anders
+19.01.2016;19.01.2016;empfänger: huk 24 kto/iban: de14700500000002034343 blz/bic: bylademmxxx buchungstext: 662/749380-k end-to-end-ref.: nicht angegeben ref. hq216019i4734042/2;-301.11;Anders
+15.01.2016;15.01.2016;auftraggeber: mobilcom-debitel kto/iban: de08214400450844443200 buchungstext: kd 0012997960 wir sagen danke. rg-n r. m16002020303 9,00 eur end-to-end-ref.: 0012997960/115007373399 cor1 / mandatsref.: mc-12997960-00000003 gläubiger-id: de43zzz00000074855 ref. ia216011a0222040/35154;-9.00;Anders
+14.01.2016;14.01.2016;empfänger: rundfunk ard, zdf, dradio kto/iban: de10160800000012345600 blz/bic: dresdeff160 buchungstext: yicheng wei rf67x269714295 beitrags nummer 269714295 zahlg. u. vorbeh. gem. schr. v. 07.12.2015 end-to-end-ref.: nicht angegeben ref. i8216014h5843620/2;-52.50;Anders
+12.01.2016;12.01.2016;empfänger: eule international gmbh kto/iban: de96500400000384975901 blz/bic: cobadeffxxx buchungstext: dd160111009318 e016297 end-to-end-ref.: nicht angegeben ref. jm216011k2253610/2;-26.00;Anders
+11.01.2016;11.01.2016;auftraggeber: wei, yicheng buchungstext: kontoauflösung 704 5297874 00 per 0 8.01.2016, wei, yicheng end-to-end-ref.: 120801169802 ref. i9216011a1003966/16102;0.02;Anders
+11.01.2016;11.01.2016;empfänger: jie lin kto/iban: de69604200009613861340 blz/bic: wbagde61xxx buchungstext: miete fuer raum bei kg st. paulus v on guangyun xu und yicheng wei end-to-end-ref.: nicht angegeben ref. jo216009d4118891/2;-60.00;Anders
+08.01.2016;08.01.2016;auftraggeber: netto marken-discou. kto/iban: de68750200730008472092 buchungstext: kartenzahlung netto marken-discou//cottbus/de 2016-01-07t13:23:38 kfn 0 vj 1912 ref. 0ec16008a1506357/11595;-5.61;Anders
+08.01.2016;08.01.2016;auftraggeber: studentenwerk frankfurt (oder) kto/iban: de88120300000000501494 buchungstext: d0087943,01.01.16 0116-cb.p.1.111 2 26,00 end-to-end-ref.: olpaymenttan.1.504955 cor1 / mandatsref.: d00087943-01032011 gläubiger-id: de42zzz00000048489 ref. j021600791809217/7825;-226.00;Anders
+07.01.2016;07.01.2016;auftraggeber: lagune cottbus kto/iban: de29180500003000016103 buchungstext: kartenzahlung lagune cottbus gmbh//cottbus/de 2016-01-05t14:54:47 kfn 0 vj 1912 ref. 95k16007c1103316/642;-25.00;Anders
+05.01.2016;05.01.2016;auftraggeber: chao xu und                  hui ji buchungstext: thanks from xu,chao end-to-end-ref.: ccb.4.ue.306464 ref. jc216004m2034416/1;100.00;Anders
+04.01.2016;04.01.2016;auftraggeber: db vertrieb gmbh kto/iban: de43120800004084300300 buchungstext: kartenzahlung db automat//luebben(spreewald)/de 2015-12-31t13:10:29 kfn 0 vj 1912 ref. 7md1600441649716/416;-6.80;Anders
+04.01.2016;04.01.2016;auftraggeber: db vertrieb gmbh kto/iban: de43120800004084300300 buchungstext: kartenzahlung db automat//cottbus/de 2015-12-31t14:08:39 kfn 0 vj 1912 ref. 7md1600441649716/267;-29.00;Anders
+04.01.2016;02.01.2016;buchungstext: ga nr00001298 blz18040000 0 02.01/12.58uhr cottbus 15 eur 250,00 geb.eur 0,00 ref. 3kl1600340741186/16468;-250.00;Anders
+28.01.2016;27.01.2016; copy.worxx cottbus 000 ;-80.00;Anders
+18.01.2016;16.01.2016; deichmann cottbus 1004 cottbus 000 ;-11.90;Anders

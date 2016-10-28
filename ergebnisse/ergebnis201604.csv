@@ -1,0 +1,64 @@
+Buchungsdatum;Kaufdatum;Umsatz;Betrag;Kategorie
+31.03.2016;30.03.2016;rossmann 2380 / ingolstadt;-4.30;Lebensmittel
+21.04.2016;19.04.2016;paypal *better / 35314369001;-1.00;Lebensmittel
+22.04.2016;22.04.2016;auftraggeber: neukauf suedbayern gmbh//gaimershei m/dekto/iban: de79200907003142302071 buchungstext: kartenzahlung 485 edeka ingolstadt gerol//gaimers 2016-04-21t17:35:29 kfn 1 vj 1912 ref. 7lk16113d0841101/13567;-7.85;Lebensmittel
+12.04.2016;12.04.2016;auftraggeber: unicredit bank ag buchungstext: auszahlung hypovereinsbank//ingolstadt/de 2016-04-09t19:08:14 kfn 0 vj 1912 ref. 9id16103a1552649/7625;-200.00;Lebensmittel
+29.04.2016;28.04.2016; lidl vertriebs gmbh & co.ingolstadt 000 ;-29.70;Lebensmittel
+28.04.2016;27.04.2016; edeka fanderl ingolstadt 000 ;-5.94;Lebensmittel
+27.04.2016;26.04.2016; edeka fanderl ingolstadt 000 ;-3.79;Lebensmittel
+25.04.2016;22.04.2016; lidl vertriebs gmbh & co.ingolstadt 000 ;-27.59;Lebensmittel
+19.04.2016;18.04.2016; aldi sued sagt danke gaimersheim 000 ;-13.42;Lebensmittel
+18.04.2016;16.04.2016; kaufland ingolstadt ingolstadt 000 ;-29.80;Lebensmittel
+14.04.2016;13.04.2016; edeka fanderl ingolstadt 000 ;-1.30;Lebensmittel
+13.04.2016;12.04.2016; lidl vertriebs gmbh & co.ingolstadt 000 ;-35.13;Lebensmittel
+13.04.2016;12.04.2016; dm-drogerie markt ingolstadt 000 ;-3.90;Lebensmittel
+11.04.2016;08.04.2016; aldi sued sagt danke ingolstadt 000 ;-2.37;Lebensmittel
+11.04.2016;08.04.2016; lidl vertriebs gmbh ingolstadt 000 ;-10.84;Lebensmittel
+11.04.2016;08.04.2016; lidl vertriebs gmbh ingolstadt 000 ;-2.59;Lebensmittel
+11.04.2016;08.04.2016; dm-drogerie markt ingolstadt 000 ;-13.85;Lebensmittel
+08.04.2016;07.04.2016; edeka fanderl ingolstadt 000 ;-1.04;Lebensmittel
+08.04.2016;07.04.2016; mueller fil. 1312 ingolstadt 000 ;-2.99;Lebensmittel
+07.04.2016;06.04.2016; edeka fanderl ingolstadt 000 ;-9.75;Lebensmittel
+04.04.2016;02.04.2016; aldi sued sagt danke ingolstadt 000 ;-14.82;Lebensmittel
+04.04.2016;02.04.2016; lidl vertriebs gmbh ingolstadt 000 ;-20.31;Lebensmittel
+04.04.2016;02.04.2016; dm-drogerie markt ingolstadt 000 ;-10.70;Lebensmittel
+04.04.2016;02.04.2016; dm-drogerie markt ingolstadt 000 ;-7.80;Lebensmittel
+01.04.2016;31.03.2016; edeka fanderl ingolstadt 000 ;-9.35;Lebensmittel
+27.04.2016;27.04.2016;auftraggeber: life park max, volker beitler kto/iban: de77721608180008107785 buchungstext: mcc317-2726/108151 von wochenzahler wp18 25.04-01.05 15,49/betrag ent h. 19 mwst 2,47/mitgliedsbeitrag - life park max end-to-end-ref.: mcc317-2726 a108151 m108151 cor1 / mandatsref.: 108151 gläubiger-id: de36zzz00000603922 ref. ir216116g1808464/273;-15.49;Personal
+27.04.2016;27.04.2016;auftraggeber: life park max, volker beitler kto/iban: de77721608180008107785 buchungstext: mcc317-2849/108251 von wochenzahler wp18 25.04-01.05 15,49/betrag ent h. 19 mwst 2,47/mitgliedsbeitrag - life park max end-to-end-ref.: mcc317-2849 a108251 m108251 cor1 / mandatsref.: 108251 gläubiger-id: de36zzz00000603922 ref. ir216116g1808464/358;-15.49;Personal
+20.04.2016;20.04.2016;auftraggeber: life park max, volker beitler kto/iban: de77721608180008107785 buchungstext: mcc315-2751/108151 von wochenzahler wp18 18.04-24.04 15,49/betrag ent h. 19 mwst 2,47/mitgliedsbeitrag - life park max end-to-end-ref.: mcc315-2751 a108151 m108151 cor1 / mandatsref.: 108151 gläubiger-id: de36zzz00000603922 ref. gt216109g1654389/830;-15.49;Personal
+20.04.2016;20.04.2016;auftraggeber: life park max, volker beitler kto/iban: de77721608180008107785 buchungstext: mcc315-2734/108251 von wochenzahler wp18 18.04-24.04 15,49/betrag ent h. 19 mwst 2,47/mitgliedsbeitrag - life park max end-to-end-ref.: mcc315-2734 a108251 m108251 cor1 / mandatsref.: 108251 gläubiger-id: de36zzz00000603922 ref. gt216109g1654389/932;-15.49;Personal
+13.04.2016;13.04.2016;auftraggeber: life park max, volker beitler kto/iban: de77721608180008107785 buchungstext: mcc314-2761/108151 von wochenzahler wp18 11.04-17.04 15,49/betrag ent h. 19 mwst 2,47/mitgliedsbeitrag - life park max end-to-end-ref.: mcc314-2761 a108151 m108151 cor1 / mandatsref.: 108151 gläubiger-id: de36zzz00000603922 ref. ic216102g1624545/158;-15.49;Personal
+13.04.2016;13.04.2016;auftraggeber: life park max, volker beitler kto/iban: de77721608180008107785 buchungstext: mcc314-2862/108251 von wochenzahler wp18 11.04-17.04 15,49/betrag ent h. 19 mwst 2,47/mitgliedsbeitrag - life park max end-to-end-ref.: mcc314-2862 a108251 m108251 cor1 / mandatsref.: 108251 gläubiger-id: de36zzz00000603922 ref. ic216102g1624545/171;-15.49;Personal
+06.04.2016;06.04.2016;auftraggeber: life park max, volker beitler kto/iban: de77721608180008107785 buchungstext: mcc313-1224/108251 von wochenzahler wp18 04.04-10.04 15,49/betrag ent h. 19 mwst 2,47/mitgliedsbeitrag - life park max end-to-end-ref.: mcc313-1224 a108251 m108251 cor1 / mandatsref.: 108251 gläubiger-id: de36zzz00000603922 ref. ie216095g2051330/2339;-15.49;Personal
+06.04.2016;06.04.2016;auftraggeber: life park max, volker beitler kto/iban: de77721608180008107785 buchungstext: mcc313-2790/108151 von wochenzahler wp18 04.04-10.04 15,49/betrag ent h. 19 mwst 2,47/mitgliedsbeitrag - life park max end-to-end-ref.: mcc313-2790 a108151 m108151 cor1 / mandatsref.: 108151 gläubiger-id: de36zzz00000603922 ref. ie216095g2051330/2352;-15.49;Personal
+01.04.2016;01.04.2016;auftraggeber: life park max, volker beitler kto/iban: de77721608180008107785 buchungstext: mcc310-2752/108151 von wochenzahler wp18 28.03-03.04 15,49/betrag ent h. 19 mwst 2,47/mitgliedsbeitrag - life park max end-to-end-ref.: mcc310-2752 a108151 m108151 cor1 / mandatsref.: 108151 gläubiger-id: de36zzz00000603922 ref. gx216089g2139066/5549;-15.49;Personal
+01.04.2016;01.04.2016;auftraggeber: life park max, volker beitler kto/iban: de77721608180008107785 buchungstext: mcc310-2851/108251 von wochenzahler wp18 28.03-03.04 15,49/und weiter e...betrag enth. 19 mwst 4,07/mitg liedsbeitrag - life park max end-to-end-ref.: mcc310-2851 a108251 m108251 cor1 / mandatsref.: 108251 gläubiger-id: de36zzz00000603922 ref. gx216089g2139066/6705;-25.49;Personal
+25.04.2016;23.04.2016; tankstelle westpark ingolstadt 000 ;-21.18;Verkehr
+05.04.2016;04.04.2016; tankstelle westpark ingolstadt 000 ;-45.26;Verkehr
+20.04.2016;20.04.2016;auftraggeber: vodafone kabeldeutschland kto/iban: de13380700590045335700 buchungstext: 04/2016 k-nr. 933091064 ihre rechnu ng online bei www.vodafone.de/meink abel end-to-end-ref.: rechnr. 100384690400 cor1 / mandatsref.: kd020006598081 gläubiger-id: de20kd000000058294 ref. ix21611091905914/4829;-19.99;Kommunikation
+13.04.2016;13.04.2016;auftraggeber: telefonica germany gmbh + co. ohg kto/iban: de49700400410225563601 buchungstext: kd-nr.: 6017780964, rg-nr.: 1038688 409/05, ihre mobilfunkrechnung. det ails unter www.rechnung.telefonica. de end-to-end-ref.: 3202231172860001038688409005rcur cor1 / mandatsref.: t0010001b000006017780964 gläubiger-id: de9700000000142462 ref. hz21609994041847/22561;-14.99;Kommunikation
+04.04.2016;01.04.2016;amazon eu / amazon.de;-22.09;Haus
+07.04.2016;06.04.2016;amazon eu;22.09;Haus
+15.04.2016;14.04.2016;media markt tv-hifi-elekt / ingolstadt;-259.00;Haus
+08.04.2016;08.04.2016;auftraggeber: roller gmbh + co. kg kto/iban: de71300500000001682814 buchungstext: elv61427904 06.04 15.33 me0 end-to-end-ref.: ic-5434482085 cor1 / mandatsref.: 6142790436771604061533 gläubiger-id: de25zzz00000000392 ref. jk21609891754185/7001;-17.98;Haus
+07.04.2016;07.04.2016;auftraggeber: poco eching kto/iban: de64300500000001777515 buchungstext: kartenzahlung poco einrichtungsma//eching/de 2016-04-06t16:30:46 kfn 0 vj 1912 ref. 5qd16098a1430869/12222;-25.97;Haus
+06.04.2016;06.04.2016;auftraggeber: roller gmbh + co. kg kto/iban: de86300500000001052141 buchungstext: kartenzahlung roller gmbh + co. kg//ingolstadt/de 2016-04-05t19:49:01 kfn 0 vj 1912 ref. 0ad16097c1137938/13064;-12.00;Haus
+06.04.2016;06.04.2016;auftraggeber: roller gmbh + co. kg kto/iban: de86300500000001052141 buchungstext: kartenzahlung roller gmbh + co. kg//ingolstadt/de 2016-04-05t11:18:58 kfn 0 vj 1912 ref. 0ad16097c1137938/13051;-30.00;Haus
+06.04.2016;06.04.2016;auftraggeber: roller gmbh + co. kg kto/iban: de71300500000001682814 buchungstext: elv61275471 04.04 11.35 me0 end-to-end-ref.: ic-5429383578 cor1 / mandatsref.: 6127547121611604041135 gläubiger-id: de25zzz00000000392 ref. i0216096b1152266/26474;-38.98;Haus
+05.04.2016;05.04.2016;auftraggeber: poco ingolstadt kto/iban: de64300500000001777515 buchungstext: kartenzahlung poco einrichtungsma//ingolstadt/de 2016-04-04t15:23:22 kfn 0 vj 1912 ref. 6al16096a1718674/29346;-5.99;Haus
+04.04.2016;04.04.2016;auftraggeber: lukas gmbh + co. betriebs kg kto/iban: de05721608180000904600 buchungstext: miete end-to-end-ref.: nicht angegeben core / mandatsref.: 08.01egrechts gläubiger-id: de38zzz00001325663 ref. jm21608991136247/1213;-555.00;Haus
+11.04.2016;08.04.2016; galeria kaufhof 626 ingolstadt 000 ;-17.94;Haus
+07.04.2016;06.04.2016; ikea deutschland nl echineching 000 ;-55.70;Haus
+18.04.2016;16.04.2016;zero store westpark / ingolstadt;-45.95;Kleidung
+27.04.2016;27.04.2016;empfänger: europe campus ministry deutschland kto/iban: de72850400000111387700 blz/bic: cobadeffxxx buchungstext: spende von guangyun xu und yicheng wei, april, 2016 end-to-end-ref.: nicht angegeben ref. ht21611893936567/2;-264.00;Spende
+26.04.2016;26.04.2016;auftraggeber: e.solutions gmbh buchungstext: lohn-/gehalt 4/2016 end-to-end-ref.: 31363 ref. gt216117c3124021/15435;2644.26;Einkommen
+25.04.2016;25.04.2016;zahlungsschutz;-1.62;Anders
+22.04.2016;22.04.2016;empfänger: dan mou kto/iban: de19600100700828702709 blz/bic: pbnkdeffxxx buchungstext: fuer mou dan von yicheng wei end-to-end-ref.: nicht angegeben ref. hx21611394647826/2;-200.00;Anders
+14.04.2016;14.04.2016;auftraggeber: mobilcom-debitel kto/iban: de08214400450844443200 buchungstext: kd 0012997960 wir sagen danke. rg-n r. m16025397823 29,95 eur end-to-end-ref.: 0012997960/934911501108 cor1 / mandatsref.: mc-12997960-00000003 gläubiger-id: de43zzz00000074855 ref. jh216099a4026805/20675;-29.95;Anders
+06.04.2016;06.04.2016;auftraggeber: moemax ingolstadt kto/iban: de93200800000198543700 buchungstext: kartenzahlung moemax ingolstadt//ingolstadt/de 2016-04-05t13:21:23 kfn 1 vj 1912 ref. 0db16097a1608458/1152;-21.80;Anders
+05.04.2016;05.04.2016;empfänger: xie yun kto/iban: de33600100700348479707 blz/bic: pbnkdeffxxx buchungstext: danke, :-) end-to-end-ref.: nicht angegeben ref. ib216096c5217619/2;-27.00;Anders
+05.04.2016;05.04.2016;auftraggeber: moemax ingolstadt kto/iban: de93200800000198543700 buchungstext: kartenzahlung moemax ingolstadt//ingolstadt/de 2016-04-04t16:36:38 kfn 0 vj 1912 ref. 6al16096a1718674/2834;-129.00;Anders
+05.04.2016;05.04.2016;auftraggeber: moemax ingolstadt kto/iban: de68270400800530170010 buchungstext: 020412510069815191212790010 elv6537 5874 02.04 12.51 me0 end-to-end-ref.: 02041251006981519121279001065375874 cor1 / mandatsref.: 6537587413311604021251 gläubiger-id: de76zzz00000061166 ref. h821609460956499/190;-28.97;Anders
+06.04.2016;05.04.2016; bauhaus 568 ingolstadt 000 ;-15.60;Anders
+04.04.2016;02.04.2016; burger king store ingolstadt 000 ;-9.79;Anders
